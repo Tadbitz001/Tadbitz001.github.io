@@ -1,1 +1,23 @@
 
+body {
+  background-color: lightgrey;
+  color: #dddddd
+  font-family: Arial, Times, sans-serif;
+}
+
+.sectionhead {
+  background-color: lightblue;
+  font-size: 18px;
+  padding-left: 10px;
+  color: white;
+}
+
+.name {
+  text-align: center;
+}
+
+.info {
+  line-height: 5pt;
+  font-size: 11pt;
+  text-align: center;
+}
