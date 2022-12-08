@@ -1,4 +1,3 @@
-
 body {
   background-color: lightgrey;
   color: #dddddd
@@ -21,4 +20,8 @@ body {
   line-height: 5pt;
   font-size: 11pt;
   text-align: center;
+}
+
+.organization {
+  padding-left: 20px;
 }
